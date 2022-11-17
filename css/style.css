@@ -24,7 +24,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 98vh; /* 98% da vilport*/
+    /* height: 98vh; 98% da vilport */
     background-size: cover;
     font-family: var(--fonte-padrão);
     max-width: 1000px;
