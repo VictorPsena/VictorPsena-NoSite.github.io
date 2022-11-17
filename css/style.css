@@ -21,8 +21,9 @@
 
 body{
     background-image: url(../Imgs/NóTrevo.png);
-    background-repeat: repeat;
-    background-position: center center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     height: 98vh; /* 98% da vilport*/
     background-size: cover;
     font-family: var(--fonte-padrão);
